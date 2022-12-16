@@ -1,0 +1,8 @@
+.btn-blue {padding: 15px 20px;
+    text-decoration: none; /*enlever mise en page automatique des liens*/
+    color: #ffffff;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 3px;
+    background-color: #25316D;
+    border: 4px;
+}
